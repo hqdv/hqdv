@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriquequeiroz.mkt)
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hqdv&show_icons=true&theme=dracula)
+[![Henrique Queiroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hqdv&show_icons=true&theme=dracula)
 
 ### Tecnologicas que utilizo no dia-a-dia
 
